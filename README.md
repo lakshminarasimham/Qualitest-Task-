@@ -26,3 +26,7 @@ Open the SampleRunner and just click on the run button
 Report Directory 
 - 
 Test output folder will auto generated after the execution and emailable.html report will generated 
+
+Test Execution Screenshot:
+--
+![img_1.png](img_1.png)
